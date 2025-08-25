@@ -2,7 +2,7 @@
 This Project Deployed for Increasing Factory Efficiency by promoting the Concept of special proficiency gain through similar repetitive work process.
 
 ## Methodology
-🧵 Studied past trends of SST Loadings Since 2022 In SFCG.
+🧵 Studied past trends of SST Loadings Since 2022 In ####.
 
 <img width="1976" height="1002" alt="image" src="https://github.com/user-attachments/assets/3ebbec14-6018-41cb-becc-2f42bea40e09" />
 
